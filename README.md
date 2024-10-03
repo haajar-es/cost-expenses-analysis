@@ -68,7 +68,7 @@ The data for this project was sourced from Aurea Logis's financial records, cove
 
 ## Report Visualization
 
-🔎[Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiZGZjNThkNDgtMWI4MC00ZGExLWJjZjEtZmVmNzdkM2QwMTIyIiwidCI6ImFlYmMzMTg4LWU3MzYtNGRlYi05MzJiLWRjNDU5OGMwNDQ3ZCIsImMiOjN9)
+🔎[Power BI Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiODdiOTQ2MDItYjk3MS00NmM4LWE2MmUtMjI0Y2YyYjZiMDNhIiwidCI6ImFlYmMzMTg4LWU3MzYtNGRlYi05MzJiLWRjNDU5OGMwNDQ3ZCIsImMiOjN9)
 
 ![Overview Report Expenses Analysis](assets/report01-expenses-analysis-overview.png)
 
@@ -110,7 +110,7 @@ To enhance the report and analysis, consider:
 4. Creating a cost allocation simulator to model different allocation scenarios.
 
 ## How to Use
-1. Access the Power BI report using the following link: [Aurea Logis Expense Analysis Report](https://app.powerbi.com/view?r=eyJrIjoiZGZjNThkNDgtMWI4MC00ZGExLWJjZjEtZmVmNzdkM2QwMTIyIiwidCI6ImFlYmMzMTg4LWU3MzYtNGRlYi05MzJiLWRjNDU5OGMwNDQ3ZCIsImMiOjN9)
+1. Access the Power BI report using the following link: [Aurea Logis Expense Analysis Report](https://app.powerbi.com/view?r=eyJrIjoiODdiOTQ2MDItYjk3MS00NmM4LWE2MmUtMjI0Y2YyYjZiMDNhIiwidCI6ImFlYmMzMTg4LWU3MzYtNGRlYi05MzJiLWRjNDU5OGMwNDQ3ZCIsImMiOjN9)
 2. Use the filters on the right side of the report to adjust the view as needed.
 3. Hover over data points for more detailed information.
 4. Click on elements in the charts to cross-filter other visualizations.
